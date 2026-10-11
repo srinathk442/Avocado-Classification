@@ -115,8 +115,4 @@ pip install torch torchvision timm scikit-learn pandas numpy openpyxl matplotlib
 ├── Dataset.xlsx              # image metadata and ripeness labels
 ├── avocado.zip               # avocado images (extracted to images/avo/)
 └── README.md
-```
 
-## License / citation
-
-Add your license and dataset citation here.
